@@ -1,2 +1,2 @@
-# php-cashweb-api
+# cashweb-php
 Cashweb API Wrapper in PHP
