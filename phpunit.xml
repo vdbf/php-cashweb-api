@@ -11,7 +11,7 @@
          bootstrap="vendor/autoload.php"
         >
     <testsuites>
-        <testsuite name="PropelFiniteBehavior">
+        <testsuite name="cashweb-php">
             <directory>./tests/</directory>
         </testsuite>
     </testsuites>
