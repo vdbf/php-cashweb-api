@@ -11,7 +11,7 @@ use Vdbf\Components\Cashweb\Elements\CashElementInterface;
  *
  * Handles calls to CashWeb API in an OOP fashion
  *
- * @package Erati\Components\Cash
+ * @package Vdbf\Components\Cashweb
  */
 class CashApi
 {

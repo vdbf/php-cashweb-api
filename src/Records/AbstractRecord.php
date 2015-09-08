@@ -1,13 +1,13 @@
 <?php namespace Vdbf\Components\Cashweb\Records;
 
-use Erati\Components\Cash\Elements\AbstractElement;
-use Erati\Components\Cash\Elements\Field;
-use Erati\Components\Cash\Elements\Record;
+use Vdbf\Components\Cashweb\Elements\AbstractElement;
+use Vdbf\Components\Cashweb\Elements\Field;
+use Vdbf\Components\Cashweb\Elements\Record;
 
 /**
  * Class AbstractRecord
  *
- * @package Erati\Components\Cash\Records
+ * @package Vdbf\Components\Cashweb\Records
  */
 class AbstractRecord
 {
