@@ -73,6 +73,19 @@ class LedgerMutation extends AbstractRecord
      */
     const QUANTITY = '0305';
 
+
+    /**
+     * Subadministation (Subadministratie)
+     * @format S<6>
+     */
+    const SUB_ADMINISTRATION = '0701';
+
+    /**
+     * Reference (Kenmerk)
+     * @format S<13>
+     */
+    const REFERENCE = '0711';
+
     /**
      * Required fields for this record
      *
