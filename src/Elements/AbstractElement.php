@@ -95,7 +95,7 @@ class AbstractElement implements CashElementInterface
      */
     public function getValue()
     {
-        return $this->value;
+        return $this->value ?? '';
     }
 
     /**
